@@ -21,7 +21,6 @@ body {
 
 .img-login{
     width: 35vw ;
-
 }
 
 .login{
@@ -69,4 +68,9 @@ body {
     font-weight: 600;
     color:#FFFFFF;
     cursor: pointer;
+}
+
+#messageError{
+    margin: 12px;
+    color: #eb0119;
 }
